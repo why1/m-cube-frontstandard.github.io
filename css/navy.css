@@ -2434,7 +2434,7 @@ table > tbody > tr:nth-of-type(odd) {
 }
 @media screen and (min-width: 769px) {
   .banner-title {
-    padding-top: 100px;
+    /* padding-top: 100px; */
     font-size: 50px;
   }
 }
