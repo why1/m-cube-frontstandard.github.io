@@ -44,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/name/image.html</loc>
-    
-    <lastmod>2021-08-03T01:09:09.499Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://m-cube-frontstandard.github.io/docs/name/htmlcss.html</loc>
     
     <lastmod>2021-08-03T01:09:09.499Z</lastmod>
@@ -58,14 +51,21 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/js/language.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/name/image.html</loc>
+    
+    <lastmod>2021-08-03T01:09:09.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://m-cube-frontstandard.github.io/docs/js/react.html</loc>
     
     <lastmod>2021-08-03T01:09:09.498Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/js/react.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/js/language.html</loc>
     
     <lastmod>2021-08-03T01:09:09.498Z</lastmod>
     
@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/image/quality.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/image/jdc_fd_guide_image.html</loc>
     
     <lastmod>2021-08-03T01:09:09.494Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/image/jdc_fd_guide_image.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/image/quality.html</loc>
     
     <lastmod>2021-08-03T01:09:09.494Z</lastmod>
     
@@ -135,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/html/template.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/html/webapp.html</loc>
     
     <lastmod>2021-08-03T01:09:09.492Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/html/webapp.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/html/template.html</loc>
     
     <lastmod>2021-08-03T01:09:09.492Z</lastmod>
     
@@ -184,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/css/query.html</loc>
-    
-    <lastmod>2021-08-03T01:09:09.489Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://m-cube-frontstandard.github.io/docs/css/reset.html</loc>
     
     <lastmod>2021-08-03T01:09:09.489Z</lastmod>
@@ -198,7 +191,14 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/css/jdc_fd_guide_css.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/css/query.html</loc>
+    
+    <lastmod>2021-08-03T01:09:09.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://m-cube-frontstandard.github.io/docs/css/note.html</loc>
     
     <lastmod>2021-08-03T01:09:09.488Z</lastmod>
     
@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://m-cube-frontstandard.github.io/docs/css/note.html</loc>
+    <loc>https://m-cube-frontstandard.github.io/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2021-08-03T01:09:09.488Z</lastmod>
     
