@@ -2330,7 +2330,7 @@ table > tbody > tr:nth-of-type(odd) {
   line-height: 45px;
   display: inline-block;
   text-align: center;
-  background: url("http://staticcdn.pharmcube.com/images/logo.png") no-repeat 50% 50%;
+  background: url("../img/logo.png") no-repeat 50% 50%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
