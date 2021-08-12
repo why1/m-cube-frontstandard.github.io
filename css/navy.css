@@ -2325,15 +2325,15 @@ table > tbody > tr:nth-of-type(odd) {
   position: relative;
 }
 .logo {
-  width: 45px;
-  height: 45px;
+  width: 129px;
+  height: 39px;
   line-height: 45px;
   display: inline-block;
   text-align: center;
-  background: url("../img/logo.png") no-repeat 50% 50%;
-  -webkit-background-size: 46px;
-  -moz-background-size: 46px;
-  background-size: 46px;
+  background: url("http://staticcdn.pharmcube.com/images/logo.png") no-repeat 50% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
   text-indent: -400px;
   overflow: hidden;
 }
