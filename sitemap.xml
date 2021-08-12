@@ -2,21 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://why1.github.io/index.html</loc>
+    <loc>https://why1.github.io/docs/summary.html</loc>
     
-    <lastmod>2021-08-06T06:37:48.109Z</lastmod>
+    <lastmod>2021-08-12T07:22:34.370Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://why1.github.io/themes/index.html</loc>
+    <loc>https://why1.github.io/docs/index.html</loc>
+    
+    <lastmod>2021-08-12T06:59:07.108Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://why1.github.io/index.html</loc>
+    
+    <lastmod>2021-08-12T05:49:38.202Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://why1.github.io/plugins/index.html</loc>
     
     <lastmod>2021-08-03T01:09:09.502Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://why1.github.io/plugins/index.html</loc>
+    <loc>https://why1.github.io/themes/index.html</loc>
     
     <lastmod>2021-08-03T01:09:09.502Z</lastmod>
     
@@ -30,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/name/htmlcss.html</loc>
-    
-    <lastmod>2021-08-03T01:09:09.499Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://why1.github.io/docs/name/classname.html</loc>
     
     <lastmod>2021-08-03T01:09:09.499Z</lastmod>
@@ -45,6 +52,13 @@
   
   <url>
     <loc>https://why1.github.io/docs/name/dir.html</loc>
+    
+    <lastmod>2021-08-03T01:09:09.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://why1.github.io/docs/name/htmlcss.html</loc>
     
     <lastmod>2021-08-03T01:09:09.499Z</lastmod>
     
@@ -65,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/js/react.html</loc>
+    <loc>https://why1.github.io/docs/js/vue.html</loc>
     
     <lastmod>2021-08-03T01:09:09.498Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/js/vue.html</loc>
+    <loc>https://why1.github.io/docs/js/react.html</loc>
     
     <lastmod>2021-08-03T01:09:09.498Z</lastmod>
     
@@ -82,13 +96,6 @@
     <loc>https://why1.github.io/docs/js/code.html</loc>
     
     <lastmod>2021-08-03T01:09:09.496Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://why1.github.io/docs/index.html</loc>
-    
-    <lastmod>2021-08-03T01:09:09.495Z</lastmod>
     
   </url>
   
@@ -156,13 +163,6 @@
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/html/jdc_fd_web_final_2.html</loc>
-    
-    <lastmod>2021-08-03T01:09:09.491Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://why1.github.io/docs/html/note.html</loc>
     
     <lastmod>2021-08-03T01:09:09.491Z</lastmod>
@@ -170,14 +170,21 @@
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/css/sass.html</loc>
+    <loc>https://why1.github.io/docs/html/jdc_fd_web_final_2.html</loc>
+    
+    <lastmod>2021-08-03T01:09:09.491Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://why1.github.io/docs/css/webkit.html</loc>
     
     <lastmod>2021-08-03T01:09:09.490Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/css/webkit.html</loc>
+    <loc>https://why1.github.io/docs/css/sass.html</loc>
     
     <lastmod>2021-08-03T01:09:09.490Z</lastmod>
     
@@ -198,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/css/note.html</loc>
+    <loc>https://why1.github.io/docs/css/code.html</loc>
     
     <lastmod>2021-08-03T01:09:09.488Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://why1.github.io/docs/css/code.html</loc>
+    <loc>https://why1.github.io/docs/css/note.html</loc>
     
     <lastmod>2021-08-03T01:09:09.488Z</lastmod>
     
